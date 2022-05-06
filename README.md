@@ -50,7 +50,7 @@ Para finalizar, vamos adicionar algumas configurações no Visual Studio Code. P
 Verifique também se a todas as linhas de configuração exceto a última terminam com vírgula, para não gerar erro. 
 
 Por fim, caso queira substituir completamente a sua configuração pela abaixo, envolva com chaves {} todo o código disponibilizado.
-```
+```json
   "workbench.iconTheme": "vscode-icons",
   "workbench.colorTheme": "Dracula",
   "editor.formatOnSave": true,
