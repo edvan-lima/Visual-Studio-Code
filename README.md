@@ -1,6 +1,6 @@
 # Visual-Studio-Code
 
-**Fonte**
+### Fonte
 Para ter uma fonte mais personalizada e com todos aqueles símbolos especiais quando combinamos alguns caracteres, basta seguir alguns passos:
 
 Faça download da fonte em https://github.com/tonsky/FiraCode.
